@@ -1,4 +1,5 @@
 # vue-avator-image-upload
+![demo](https://raw.githubusercontent.com/wiki/gyarasu/vue-avator-image-upload/sample.gif)
 
 ## Project setup
 ```

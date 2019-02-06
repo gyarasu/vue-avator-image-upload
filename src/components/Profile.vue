@@ -37,6 +37,8 @@ export default {
       const avatorfile = e.target.files[0];
 
       // TODO: add upload process with same file name
+      // eslint-disable-next-line
+      console.log(avatorfile);
 
 
       // add timestamp to image url to reload
@@ -45,6 +47,7 @@ export default {
   },
   data() {
     return {
+      // TODO: Replace Your avator Path
       avatorUrl: '/profile.svg',
     };
   },
